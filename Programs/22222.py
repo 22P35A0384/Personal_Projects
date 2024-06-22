@@ -1,0 +1,7 @@
+a = int(input())
+b,c = map(int,input().split())
+d,e = map(int,input().split())
+f,g = map(int,input().split())
+print(b+c)
+print(d+e)
+print(f+g)

@@ -1,0 +1,15 @@
+pip install virtualenv
+
+virtualenv myenv (creating new folder)
+
+cd env
+cd Scripts
+activate
+
+cd..
+cls
+
+pip freeze > requirements.txt
+
+pip install fpdf
+pip install pyautogui

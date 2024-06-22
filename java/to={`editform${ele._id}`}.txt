@@ -1,0 +1,4 @@
+to={`/editform/${ele._id}`}
+
+
+document.getElementById('edit').innerHTML="<td><input value={formdata.username}/></td><td><input/></td><td><input/></td><td><input/></td><td><button onClick={()=>Save(ele._id)} style={{cursor:'pointer'}}>Save</button></td><td><button style={{cursor:'pointer'}} onClick={()=>deleteuser(ele._id)}>Delete</button></td>"

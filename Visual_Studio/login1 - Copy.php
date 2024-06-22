@@ -1,0 +1,1 @@
+<div class="action"><acronym title="welcome"></acronym></div>

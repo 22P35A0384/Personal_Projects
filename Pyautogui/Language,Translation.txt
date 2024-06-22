@@ -1,0 +1,101 @@
+Language,Translation
+English,I love you
+Spanish,Te amo
+French,Je t'aime
+German,Ich liebe dich
+Italian,Ti amo
+Portuguese,Eu te amo
+Dutch,Ik hou van je
+Russian,Я тебя люблю (Ya tebya lyublyu)
+Chinese (Simplified),我爱你 (Wǒ ài nǐ)
+Japanese,愛してる (Aishiteru)
+Korean,사랑해 (Saranghae)
+Arabic,أحبك (Ana uhibbuka)
+Greek,Σε αγαπώ (Se agapó)
+Turkish,Seni seviyorum
+Polish,Kocham cię
+Swedish,Jag älskar dig
+Danish,Jeg elsker dig
+Norwegian,Jeg elsker deg
+Finnish,Rakastan sinua
+Hungarian,Szeretlek
+Czech,Miluji tě
+Slovak,Ľúbim ťa
+Romanian,Te iubesc
+Bulgarian,Обичам те (Obicham te)
+Ukrainian,Я тебе кохаю (Ya tebe kohayu)
+Serbian,Волим те (Volim te)
+Croatian,Volim te
+Slovenian,Ljubim te
+Estonian,Ma armastan sind
+Latvian,Es tevi mīlu
+Lithuanian,Aš tave myliu
+Albanian,Të dua
+Macedonian,Те сакам (Te sakam)
+Hindi,मैं तुमसे प्यार करता/करती हूँ (Main tumse pyaar karta/karti hoon)
+Bengali,আমি তোমায় ভালোবাসি (Ami tomai bhalobashi)
+Tamil,நான் உன்னை காதலிக்கிறேன் (Naan unai kaadhalikiren)
+Telugu,నాను నిన్ను ప్రేమిస్తున్నాను (Nānu ninnu preminchunānu)
+Kannada,ನಾನು ನಿನ್ನನ್ನು ಪ್ರೀತಿಸುತ್ತೇನೆ (Nānu ninnannu prītisuttēne)
+Malayalam,ഞാൻ നിന്നെ സ്നേഹിക്കുന്നു (Njān ninnē snehikkunnu)
+Marathi,माझं तुमचं प्रेम आहे (Majha tumcha prem aahe)
+Afrikaans,Ek is lief vir jou
+Catalan,T'estimo
+Filipino,Mahal kita
+Indonesian,Aku cinta kamu
+Malay,Saya cinta padamu
+Vietnamese,Tôi yêu bạn
+Thai,ฉันรักเธอ (Chan rak ter)
+Swahili,Nakupenda
+Yoruba,Mo nifẹ rẹ
+Hausa,Ina sonki
+Igbo,A hụrụ m gị n'anya
+Somali,Waan ku jeclahay
+Zulu,Ngiyakuthanda
+Xhosa,Ndiyakuthanda
+Irish,Tá grá agam ort
+Welsh,Rwy'n dy garu di
+Scottish Gaelic,Tha gaol agam ort
+Czech,Miluju tě
+Polish,Kocham cię
+Hungarian,Szeretlek
+Bulgarian,Обичам те (Obicham te)
+Macedonian,Те сакам (Te sakam)
+Kazakh,Сені сүйемін (Seni süyemin)
+Tajik,Ман туро дӯст медорам (Man toro dust midoram)
+Uzbek,Seni sevaman
+Turkmen,Men seni söýärin
+Kyrgyz,Сени сүйөм (Seni süyöm)
+Armenian,Սիրում եմ քեզ (Sirum em kez)
+Georgian,მიყვარხარ (Miqvarxar)
+Azerbaijani,Mən səni sevirəm
+Basque,Maite zaitut
+Maltese,Inħobbok
+Corsican,Ti tengu caru
+Icelandic,Ég elska þig
+Faroese,Eg elski teg
+Luxembourgish,Ech hunn dech gär
+Malagasy,Tiako ianao
+Sesotho,Ke a o rata
+Shona,Ndinokuda
+Pashto,زه ته ښه راښکوم (Za ta sha raakhom)
+Nepali,म तिमीलाई माया गर्छु (Ma timilai maya garchu)
+Sinhala,මම ඔයාට ආදරෙයි (Mama oyata adareyi)
+Amharic,እወድሃለሁ (Ewedehalehu)
+Hausa,Ina sonki
+Yoruba,Mo nifẹ rẹ
+Igbo,A hụrụ m gị n'anya
+Somali,Waan ku jeclahay
+Zulu,Ngiyakuthanda
+Xhosa,Ndiyakuthanda
+Sesotho,Ke a o rata
+Shona,Ndinokuda
+Swazi,Ngiyakutsandza
+Tswana,Ke a go rata
+Xitsonga,Ndzakurhandza wena
+Setswana,Ke a go rata
+Haitian Creole,Mwen renmen ou
+Hawaiian,Aloha wau iā 'oe
+Maori,Aroha ana ahau ki a koe
+Samoan,Ou te alofa ia te oe
+Fijian,Au lomani iko
